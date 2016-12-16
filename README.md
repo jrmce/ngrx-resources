@@ -1,13 +1,19 @@
 # ngrx-resources
 
-## Tools
-[RxJS - Repo](https://github.com/Reactive-Extensions/RxJS)
+## Libraries
+* [RxJS](https://github.com/Reactive-Extensions/RxJS)
 
-[RxJS - API](http://reactivex.io/rxjs/)
+  * [API Docs](http://reactivex.io/rxjs/)
 
-[RxJS - Manual](http://reactivex.io/rxjs/manual/index.html)
+  * [Manual](http://reactivex.io/rxjs/manual/index.html)
 
-[ngrx](https://github.com/ngrx)
+* [ngrx](https://github.com/ngrx)
+
+  * [store](https://github.com/ngrx/store)
+  
+  * [effects](https://github.com/ngrx/effects)
+  
+  * [store-devtools](https://github.com/ngrx/store-devtools)
 
 ## Tutorials/Articles
 
@@ -28,3 +34,5 @@
 [Evolving State and Data Management with @ngrx/store and @ngrx/effects](https://www.youtube.com/watch?v=pjwVq8B-ZAw)
 
 [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop)
+
+[Latest RxJS on egghead.io](https://egghead.io/technologies/rx?order=desc&page=1#all-lesson-list)
