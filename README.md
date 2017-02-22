@@ -28,6 +28,8 @@
 
 [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
 
+[JavaScript Startup Performance] (https://addyosmani.com/blog/javascript-startup-performance/)
+
 ### Video
 [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
