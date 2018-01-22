@@ -38,3 +38,7 @@
 [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop)
 
 [Latest RxJS on egghead.io](https://egghead.io/technologies/rx?order=desc&page=1#all-lesson-list)
+
+[Ultimate Angular free ngrx course](https://ultimateangular.com/ngrx-store-effects)
+
+[Angular udemy course](https://www.udemy.com/the-complete-guide-to-angular-2/)
